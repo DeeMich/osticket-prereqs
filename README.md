@@ -48,7 +48,7 @@ Using Azure, I first created a resource group and a virtual machine running on W
 <p>
 <img src="https://i.imgur.com/ABchKWM.png" height="80%" width="80%" alt="ReWrite Module"/>
 </p>
-Next I enabled Internet Information Services (IIS), by opening up the control panel and under programs, I clicked "turn windows on or off" and clicked for IIS. I then expanded IIS and clicked on World Wide Web to then select Application Developer and checked CGI. CGI is needed to install IIS. Then I installed IIS, which is a webserver that allows the computer to serve up websites. Rewrite Module's installation followed next, which is just a program needed for OSticket to properly function. 
+Next I enabled Internet Information Services (IIS), by opening up the control panel and under programs, I clicked "turn windows on or off" and clicked for IIS. I then expanded IIS and clicked on World Wide Web to then select Application Developer and checked CGI. CGI is needed to install IIS. Then I installed IIS, which is a webserver that allows the computer to serve up websites. Rewrite Module's installation followed next, which is just a requirement needed for OSticket to properly function. 
 </p>
 <br />
 
