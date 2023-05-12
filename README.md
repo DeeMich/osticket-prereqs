@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/9JZPjAU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9JZPjAU.png" height="80%" width="80%" alt="RG&VM"/>
 </p>
 <p>
 Using Azure, I first created a resource group and a virtual machine running on Windows 10. I then remote desktop connected to VM1 and started the installation process of OsTicket.
@@ -39,10 +39,10 @@ Using Azure, I first created a resource group and a virtual machine running on W
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YEJgzPe.png" height="80%" width="80%" alt="IIS Download"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next I installed Internet Information Services (IIS), which is a webserver that allows the computer to serve up websites. 
 </p>
 <br />
 
