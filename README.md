@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9JZPjAU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Using Azure, I first created a resource group and a virtual machine running on Windows 10. I then remote desktop connected to VM1 and started the installation process of OsTicket.
