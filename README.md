@@ -53,9 +53,11 @@ Next I enabled Internet Information Services (IIS), by opening up the control pa
 <br />
 
 <p>
-<img src="https://i.imgur.com/LN8VY90.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LN8VY90.png" height="80%" width="80%" alt="PHPs"/>
 </p>
 <p>
-Creation of directory for PHP in C Drive.
+<img src="https://i.imgur.com/Lt7IguJ.png" height="80%" width="80%" alt="MQSYL"/>
+</p>
+First I created a directory for PHP in C Drive and then I installed PHP and extracted the files into the folder. After that, I installed MSQL. Next I opened IIS as an Admin and registered PHP.
 </p>
 <br />
