@@ -56,6 +56,6 @@ Next I enabled Internet Information Services (IIS), by opening up the control pa
 <img src="https://i.imgur.com/LN8VY90.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here, I created a directory for PHP in C Drive.
+Creation of directory for PHP in C Drive.
 </p>
 <br />
