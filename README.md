@@ -58,6 +58,8 @@ Next I enabled Internet Information Services (IIS), by opening up the control pa
 <p>
 <img src="https://i.imgur.com/Lt7IguJ.png" height="80%" width="80%" alt="MQSYL"/>
 </p>
-First I created a directory for PHP in C Drive and then I installed PHP and extracted the files into the folder. After that, I installed MSQL. Next I opened IIS as an Admin and registered PHP.
+First I created a directory for PHP in C Drive and then I installed PHP and extracted the files into the folder. After that, I installed MSQL. Next I opened IIS as an Admin to register PHP.
+<p>
+<img src="https://i.imgur.com/GskYkSa.png" height="80%" width="80%" alt="RGSTRPHP"/>
 </p>
-<br />
+I registered the PHP in the folder created earlier and once complete, restarted IIS. Next I downloaded OSticket from the installation files and  
