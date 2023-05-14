@@ -73,3 +73,6 @@ Within IIS, I registered the PHP folder created earlier. Once complete, I restar
 </p>
 Some extensions had to be enabled, permissions assigned, and HeidiSQL had to be installed. 
 OSticket is ready to be used!
+<p>
+<img src="https://i.imgur.com/Kf7BjkJ.png" height="80%" width="80%" alt="Osticketrdy"/>
+</p>
