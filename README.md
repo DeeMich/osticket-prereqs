@@ -57,8 +57,14 @@ Next I turned on CGI and enabled Internet Information Services (IIS). CGI is nee
 <p>
 <img src="https://i.imgur.com/Lt7IguJ.png" height="80%" width="80%" alt="MQSYL"/>
 </p>
-First I created a directory for PHP in C Drive and then I installed PHP and extracted the files into the folder. After that, I installed MSQL. Next I opened IIS as an Admin to register PHP.
+I created a directory for PHP in C Drive and then downloaded PHP and extracted the files into the folder. After that, I installed MSQL. Next I opened IIS as an Admin to register PHP.
 <p>
 <img src="https://i.imgur.com/GskYkSa.png" height="80%" width="80%" alt="RGSTRPHP"/>
 </p>
-I registered the PHP in the folder created earlier and once complete, restarted IIS. Next I downloaded OSticket from the installation files and  
+<p>
+<img src="https://i.imgur.com/qGhJXgo.png" height="80%" width="80%" alt="OSticket"/>
+</p>
+<p>
+<img src="https://i.imgur.com/m7d9Yy2.png" height="80%" width="80%" alt="IIS"/>
+</p>
+I registered the PHP in the folder created earlier and once complete, restarted IIS. Next I downloaded OSticket from the installation files and extracted the files to the folder "osticket" under wwwroot. Once complete load IIS.
