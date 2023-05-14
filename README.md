@@ -67,4 +67,4 @@ I created a directory for PHP in C Drive and then downloaded PHP and extracted t
 <p>
 <img src="https://i.imgur.com/m7d9Yy2.png" height="80%" width="80%" alt="IIS"/>
 </p>
-I registered the PHP in the folder created earlier and once complete, restarted IIS. Next I downloaded OSticket from the installation files and extracted the files to the folder "osticket" under wwwroot. Once complete load IIS.
+Within IIS, I registered the PHP folder created earlier. Once complete, I restarted IIS. Next I downloaded OSticket from the installation files and extracted and copied the uploaad files to wwwroot. Once completed I ran IIS.
